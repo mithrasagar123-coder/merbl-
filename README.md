@@ -4,7 +4,7 @@
 <img width="591" height="563" alt="Screenshot 2026-10-20 at 8 11 13 PM" src="https://github.com/user-attachments/assets/a6218ff4-7596-48f9-91b7-7097b9963fc3" />
 
 
-This is a 3D printed marble race with a square base, cylinder support beam in the middle and many tracks. 
+This is a classic marble race, to be 3D printed. It consists of a square base, cylinder support beam in the middle and many, many tracks. 
 
 Built for halflife by hackclub, a 10-week program where you can design and build hardware projects free of cost!
 
